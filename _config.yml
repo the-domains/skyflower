@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7914894
+color:
+  lightness: 1
+  brandStrength: 0.3370299
+  saturation: 1
+  rhythmicContrast: 0.6638298
+  brandColors:
+    - '#FFFFFF'
+    - '#100F11'
+    - '#80ADD7'
+    - '#525530'
+    - '#9D7D52'
+name: SkyFlower
