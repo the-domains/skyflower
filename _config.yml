@@ -1,3 +1,15 @@
+typography_spectrum: 0.7914894
+color:
+  brandStrength: 0.5404255
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#B7BEE3'
+    - '#3C0000'
+    - '#B49067'
+    - '#754725'
+    - '#82734D'
 layout_spectrum: 1
 name: SkyFlower
 collections:
@@ -12,15 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7914894
-color:
-  brandStrength: 0.5404255
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#B7BEE3'
-    - '#3C0000'
-    - '#B49067'
-    - '#754725'
-    - '#82734D'
+title: Revolutionary Lullabies
