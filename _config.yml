@@ -1,16 +1,16 @@
-typography_spectrum: 0.7914894
+layout_spectrum: 0.25539539312012494
+typography_spectrum: 0.6959627773612738
 color:
-  brandStrength: 0.5404255
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 0.10950584127567708
+  lightness: 0.42365479678846896
+  saturation: 0.34983317251317203
+  rhythmicContrast: 0.42520236666314304
   brandColors:
-    - '#B7BEE3'
-    - '#3C0000'
-    - '#B49067'
-    - '#754725'
-    - '#82734D'
-layout_spectrum: 1
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: SkyFlower
 collections:
   - index:
